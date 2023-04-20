@@ -1,4 +1,4 @@
-﻿/*Console.WriteLine("------------------------------------Ejercicio 1 ------------------------------------------");
+﻿Console.WriteLine("------------------------------------Ejercicio 1 ------------------------------------------");
 Console.WriteLine("ingrese su nombre");
 string nombre= Console.ReadLine();
 Console.WriteLine("Ingrese apellido");
@@ -24,7 +24,7 @@ string material = "Madera";
 string color = "Rojo";
 
 Console.WriteLine("Peso: " + peso + ", Largo: " + largo + ", Material: " + material + ", Color: " + color);
-*/
+
 Console.WriteLine("------------------------------------Ejercicio 3 ------------------------------------------");
 
 //numero mayor o igual que 18
