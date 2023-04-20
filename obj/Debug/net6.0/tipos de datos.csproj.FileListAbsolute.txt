@@ -1,0 +1,15 @@
+C:\Users\CHRISTIAN\source\repos\tipos de datos\bin\Debug\net6.0\tipos de datos.exe
+C:\Users\CHRISTIAN\source\repos\tipos de datos\bin\Debug\net6.0\tipos de datos.deps.json
+C:\Users\CHRISTIAN\source\repos\tipos de datos\bin\Debug\net6.0\tipos de datos.runtimeconfig.json
+C:\Users\CHRISTIAN\source\repos\tipos de datos\bin\Debug\net6.0\tipos de datos.dll
+C:\Users\CHRISTIAN\source\repos\tipos de datos\bin\Debug\net6.0\tipos de datos.pdb
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.csproj.AssemblyReference.cache
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.AssemblyInfoInputs.cache
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.AssemblyInfo.cs
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.dll
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\refint\tipos de datos.dll
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.pdb
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\tipos de datos.genruntimeconfig.cache
+C:\Users\CHRISTIAN\source\repos\tipos de datos\obj\Debug\net6.0\ref\tipos de datos.dll
